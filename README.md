@@ -10,5 +10,5 @@ Tools:
 Create a new Anaconda environment in your cloned github folder:
 
 ```
-conda create -p myenv Python=3.9
+conda create -p myenv Python=3.9 -y
 ```
