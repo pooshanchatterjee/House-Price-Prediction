@@ -1,5 +1,5 @@
 # ML-Project
-This is a project done on the Boston Housing Dataset.
+End to end ML project done on the Boston Housing Dataset.
 
 Tools:
 1. [VS Code](https://code.visualstudio.com/download)
